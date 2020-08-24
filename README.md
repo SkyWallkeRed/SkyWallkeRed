@@ -4,9 +4,7 @@
 * IoT
 * Node.js 
 * robotics (C/C++)
-
-![CMake logo](https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2011.15.32.png)
-<!-- .element style="max-width: 100px" -->
+![test image size](https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2011.15.32.png){:height="25%" width="25%"}
 
 
 <!--
