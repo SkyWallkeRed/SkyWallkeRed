@@ -4,7 +4,8 @@
 * IoT
 * Node.js 
 * robotics (C/C++)
-![](https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2011.15.32.png?v=4&s=200)
+
+![An image](https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2011.15.32.png) <!-- .element height="50%" width="50%" -->
 
 ![](https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2011.20.45.png =250x250)
 
