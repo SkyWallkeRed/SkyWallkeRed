@@ -5,9 +5,9 @@
 * Node.js 
 * robotics (C/C++)
 
+![](https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2011.15.32.png =250x250)
+![](https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2011.20.45.png =250x250)
 
-![henry img](https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2011.15.32.png | width=100)
-![chess img](https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2011.20.45.png | width=100)
 <!--
 **SkyWallkeRed/SkyWallkeRed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
