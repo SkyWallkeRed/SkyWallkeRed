@@ -6,6 +6,7 @@
 * robotics (C/C++)
 
 <img src="https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2011.15.32.png" width="200">
+<img src="https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2011.20.45.png" width="200">
 
 
 
