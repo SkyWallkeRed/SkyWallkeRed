@@ -7,13 +7,13 @@
 * Angular(2+, notJS)
 * IoT
 * Node.js 
-* robotics (C/C++)
+* Robotics (C/C++)
 * Animations
 
 <p>
 <img src="https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2011.15.32.png" width="200">
 <img src="https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2011.20.45.png" width="371">
-<img src="https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2011.44.19.png" width="201">
+<img src="https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2011.44.19.png" width="202">
 </p>
 
 
