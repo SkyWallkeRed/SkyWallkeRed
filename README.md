@@ -4,7 +4,7 @@
 ## Hi there 👋
 ### i'm a full_stack developer Highly motivated, huge desire to succeed and grow as a developer, autodidact, quick learner. 
  - 👯 I’m looking to collaborate on:
-* Angular
+* Angular(2+, notJS)
 * IoT
 * Node.js 
 * robotics (C/C++)
