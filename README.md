@@ -1,5 +1,6 @@
 
 <img src="https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/developer-guide-blog-2.png" width="100%" height="200px">
+<img src="https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2017.49.46.png?raw=true" width="100">
 
 ## Hi there 👋
 ### I'm a full_stack developer Highly motivated, huge desire to succeed and grow as a developer, autodidact, quick learner. 
