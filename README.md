@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+## i'm a full_stack developer Highly motivated, huge desire to succeed and grow as a developer, autodidact, quick learner. 
+ - 👯 I’m looking to collaborate on:
+* IoT
+* Node.js 
+* robotics (C/C++)
 <!--
 **SkyWallkeRed/SkyWallkeRed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
