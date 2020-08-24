@@ -1,6 +1,9 @@
 
 <img src="https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/developer-guide-blog-2.png" width="100%" height="200px">
 
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
 ## Hi there 👋
 ### i'm a full_stack developer Highly motivated, huge desire to succeed and grow as a developer, autodidact, quick learner. 
  - 👯 I’m looking to collaborate on:
