@@ -2,7 +2,7 @@
 <img src="https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/developer-guide-blog-2.png" width="100%" height="200px">
 
 ## Hi there 👋
-### i'm a full_stack developer Highly motivated, huge desire to succeed and grow as a developer, autodidact, quick learner. 
+### I'm a full_stack developer Highly motivated, huge desire to succeed and grow as a developer, autodidact, quick learner. 
  - 👯 I’m looking to collaborate on:
 * Angular(2+, notJS)
 * IoT
