@@ -3,7 +3,7 @@
 <img src="https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2017.49.46.png?raw=true" width="50">
 
 ## Hi there 👋
-### I'm a full_stack developer Highly motivated, huge desire to succeed and grow as a developer, autodidact, quick learner. 
+
  - 👯 I’m looking to collaborate on:
 * Angular(2+, notJS)
 * IoT
