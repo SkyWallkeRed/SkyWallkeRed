@@ -5,7 +5,7 @@
 * Node.js 
 * robotics (C/C++)
 
-![An image](https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2011.15.32.png) <!-- .element height="10%" width="10%" -->
+![An image](https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2011.15.32.png).element height="10%" width="10%"
 
 ![](https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2011.20.45.png =250x250)
 
