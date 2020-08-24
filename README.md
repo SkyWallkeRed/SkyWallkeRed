@@ -1,4 +1,3 @@
-#6f42c1, $bg-purple
 
 <img src="https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/developer-guide-blog-2.png" width="100%" height="200px">
 
