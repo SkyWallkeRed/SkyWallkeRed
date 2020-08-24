@@ -2,14 +2,8 @@
 <img src="https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/developer-guide-blog-2.png" width="100%" height="200px">
 <img src="https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2017.49.46.png?raw=true" width="50">
 
-## Hi there 👋
+## 👋
 
- - 👯 I’m looking to collaborate on:
-* Angular(2+, notJS)
-* IoT
-* Node.js 
-* Robotics (C/C++)
-* Animations
 
 <p>
 <img src="https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2011.15.32.png" width="200">
@@ -33,4 +27,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+ - 👯 I’m looking to collaborate on:
+* Angular(2+, notJS)
+* IoT
+* Node.js 
+* Robotics (C/C++)
+* Animations
 -->
