@@ -1,3 +1,6 @@
+
+<img src="https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2011.15.32.png" width="100%" height="200px">
+
 ## Hi there 👋
 ### i'm a full_stack developer Highly motivated, huge desire to succeed and grow as a developer, autodidact, quick learner. 
  - 👯 I’m looking to collaborate on:
