@@ -2,8 +2,9 @@
 <img src="https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/developer-guide-blog-2.png" width="100%" height="200px">
 <img src="https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2017.49.46.png?raw=true" width="50">
 
-## Hi 👋
-## Im a full_Stack web developer with a hardware hobby.
+##👋
+## js, ts, HTML, CSS, C
+## Angular2+, Ionic, node.js, Nest.js
 
 
 <p>
