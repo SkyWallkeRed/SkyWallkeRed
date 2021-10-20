@@ -9,7 +9,7 @@
 
 <p>
 <img src="https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2011.15.32.png" width="200">
-<img src="https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2011.20.45.png" width="371">
+<!-- <img src="https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2011.20.45.png" width="371"> -->
 <img src="https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2011.44.19.png" width="202">
 <!-- <img src="https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/WhatsApp%20Image%202020-08-24%20at%2017.42.57.jpeg?raw=true" width="200"> -->
 </p>
