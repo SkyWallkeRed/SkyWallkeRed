@@ -4,7 +4,7 @@
 
 ##👋
 ## js, ts, HTML, CSS, C
-## Angular2+, Ionic, node.js, Nest.js
+## Angular2-12, Ionic, node.js, Nest.js, NX
 
 
 <p>
