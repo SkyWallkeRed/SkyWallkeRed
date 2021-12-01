@@ -3,7 +3,7 @@
 <img src="https://github.com/SkyWallkeRed/SkyWallkeRed/blob/master/Screen%20Shot%202020-08-24%20at%2017.49.46.png?raw=true" width="50">
 
 ##👋
-## js, ts, HTML, CSS, C
+## js, ts, HTML, CSS, C, bash
 ## Angular2-12, Ionic, node.js, Nest.js, NX
 
 
